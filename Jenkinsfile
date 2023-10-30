@@ -25,7 +25,6 @@ pipeline {
             steps {
                 echo 'Run only crucial integration tests from the source code' 
             }
-        }
-       
+        } 
     }
-}
+]
